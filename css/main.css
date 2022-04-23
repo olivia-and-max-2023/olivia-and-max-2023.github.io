@@ -17,12 +17,7 @@ figure {
     justify-content: space-evenly;
 }
 
-ul {
-    display: flex;
-    justify-content: center;
-}
-
-h1, h2, h3, p {
+h1, h2, h3, p, ul {
     display: flex;
     justify-content: center;
 }
