@@ -73,6 +73,7 @@ table {
     padding-bottom: 40;
 }
 
-#gifts {
-    max-width: 90%
+#gifts p {
+    padding-left: 60;
+    padding-right: 60;
 }
