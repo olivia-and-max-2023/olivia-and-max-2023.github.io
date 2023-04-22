@@ -45,7 +45,7 @@ section {
 figure {
     min-height: 50;
     min-width: 50;
-    background-color: blue;
+    /* background-color: blue; */
 }
 
 figure img {
