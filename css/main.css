@@ -48,6 +48,14 @@ figure {
     background-color: blue;
 }
 
+figure img {
+    height: 50
+}
+
+#figure {
+    width: 120;
+}
+
 #schedule td {
     margin: 0;
     padding-top: 10;
@@ -63,4 +71,8 @@ table {
     padding-left: 40;
     padding-right: 40;
     padding-bottom: 40;
+}
+
+#gifts {
+    max-width: 90%
 }
